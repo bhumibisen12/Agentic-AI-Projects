@@ -42,14 +42,3 @@ GMAIL_APP_PASSWORD="your_16_digit_google_app_password" # Generated via Google 2F
 MAILTRAP_USER="your_mailtrap_smtp_username"
 MAILTRAP_PASS="your_mailtrap_smtp_password"
 
-## 🚀 How to Run Locally
-1. Clone the Workspace
-   git clone [https://github.com/bhumibisen12/Agentic-AI-Projects.git](https://github.com/bhumibisen12/Agentic-AI-Projects/new/main?filename=README.md))
-cd Agentic-AI-Project
-
-2. Install Dependencies
-   pip install streamlit pandas sqlite3 secure-smtplib
-
-3. Launch the Application Control Center
-   streamlit run app.py
-
